@@ -1,0 +1,6 @@
+.player {
+  pointer-events: none;
+  position: relative;
+  top: -50%;
+  height: 100%;
+}
