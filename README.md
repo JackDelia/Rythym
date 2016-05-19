@@ -2,7 +2,7 @@
 
 Link to game: [RYTHYMANIA][game]
 
-[game]: jackdelia.github.com/Rythym
+[game]: http://jackdelia.github.com/Rythym
 
 
 ## Description
